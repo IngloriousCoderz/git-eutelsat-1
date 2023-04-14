@@ -1,2 +1,2 @@
 Hello world!
-This change was made from main branch
+This change was made from Github
