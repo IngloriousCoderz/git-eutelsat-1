@@ -1,3 +1,2 @@
 Hello world!!!
-This change was made from Github
 Generating a conflict
